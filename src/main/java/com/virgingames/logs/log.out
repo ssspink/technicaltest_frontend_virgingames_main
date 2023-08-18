@@ -1,0 +1,8 @@
+2023-08-17 15:08:962 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (25639bf3d81fba99c57133cdacb6883d)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-17 15:08:964 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (25639bf3d81fba99c57133cdacb6883d)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-08-18 10:08:362 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[EdgeDriver: msedge on WINDOWS (290713bb683470e71d66ee66309fe586)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 10:08:941 INFO  OnlineSlotsPage :25 - Getting text from : [[EdgeDriver: msedge on WINDOWS (290713bb683470e71d66ee66309fe586)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-08-18 12:08:782 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[EdgeDriver: msedge on WINDOWS (af19bc35dccc25e6b39eda20a8b58a74)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 12:08:755 INFO  OnlineSlotsPage :25 - Getting text from : [[EdgeDriver: msedge on WINDOWS (af19bc35dccc25e6b39eda20a8b58a74)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-08-18 12:08:881 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[EdgeDriver: msedge on WINDOWS (819a7a193a68f2e09c17ad7cb6f23bea)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 12:08:310 INFO  OnlineSlotsPage :25 - Getting text from : [[EdgeDriver: msedge on WINDOWS (819a7a193a68f2e09c17ad7cb6f23bea)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
